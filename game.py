@@ -55,7 +55,7 @@ def main(screen):
         # -- Arguments for sixs line -- #
     start_pos6 = [random.randint(5, 500), random.randint(5, 500)]
     end_pos6 = [random.randint(5, 500), random.randint(5, 500)]
-    line_color6 = config.YELLOW
+    line_color6 = config.GREEN
     line_thickness6 = random.randint(5, 100)  # Set line width (thickness) in pixels
 
 
